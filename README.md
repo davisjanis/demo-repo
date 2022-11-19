@@ -2,6 +2,6 @@
 
 # Some description!
 
-## Subheader
+## SubheadeR
 
-Watch tutorial on Youtube.
+Watch tutorial on Youtube!
